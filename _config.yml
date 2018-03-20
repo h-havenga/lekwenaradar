@@ -1,1 +1,9 @@
+title: NWU Lekwena Weather Radar
+description: Africa's First University Driven Research Weather Radar
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://lekwenaradar.co.za" # the base hostname & protocol for your site
+enforce_ssl: "lekwenaradar.co.za"
